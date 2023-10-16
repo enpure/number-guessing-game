@@ -20,7 +20,7 @@
 Убедитесь, что на вашем компьютере установлен [Python](https://www.python.org/downloads/).
 
 Клонируйте репозиторий:
-git clone https://github.com/your-username/number-guessing-game.git
+git clone https://github.com/enpure/number-guessing-game.git
 
 Перейдите в директорию проекта:
 cd number-guessing-game
